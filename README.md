@@ -3,3 +3,4 @@ A programming project to develop my webdevelopment skills. Will hopefully develo
 
 # Learning objectives
 This project will allow me to get more accustomed to using git, planning, designing, time management, version control, backups as well as the programming and database side.
+I will use programs such as Jira and Miro to get familiar with popular dev tools.
